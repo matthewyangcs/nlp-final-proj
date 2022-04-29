@@ -3,3 +3,4 @@
 data/raw/reviews.csv
 data/raw/profiles.csv
 data/raw/animes.csv
+data/processed/processed_reviews.csv
