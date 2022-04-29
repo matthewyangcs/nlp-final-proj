@@ -1,2 +1,4 @@
 # nlp-final-proj
-the sussy
+TODO: Actually write this
+
+NLP for Recommendation Systems

@@ -1,0 +1,5 @@
+*.DS_Store
+*.ipynb_checkpoints
+data/raw/reviews.csv
+data/raw/profiles.csv
+data/raw/animes.csv
