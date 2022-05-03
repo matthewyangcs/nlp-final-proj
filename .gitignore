@@ -5,3 +5,4 @@ data/raw/profiles.csv
 data/raw/animes.csv
 data/processed/processed_reviews.csv
 data/processed/processed_reviews_with_sentiment.csv
+data/raw/archive.zip

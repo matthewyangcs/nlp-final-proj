@@ -14,4 +14,4 @@ All of the model implementations along with other discussed procedures from the 
 
 ### Models
 1. `Basic_Matrix_Factoriztion.ipynb` contains the PyTorch model implementation and training code for the basic MF model, and `Sentiment_Matrix_Factorization.ipynb` contains the model implementation and training code for the Sentiment MF model.
-2. ( #TODO: Nthistle add here)
+2. (Our code uses cuda) ( #TODO: Nthistle add here)
