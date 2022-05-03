@@ -6,7 +6,8 @@ All of the model implementations along with other discussed procedures from the 
 ### Data Processing
 1. Download the dataset from https://www.kaggle.com/datasets/marlesson/myanimelist-dataset-animes-profiles-reviews
 2. Put the CSV files in `data/raw/`
-3. Run the entire notebook `data_processing.ipynb` (should not take more than a few minutes)
+3. Run the entire notebook `data_processing.ipynb` (should not take more than a few minutes), which filters our dataset and performs tokenization
+4. Run the notebook `data_analysis_nlp.ipynb`, which computes and saves sentiment scores for each review
 
 ### Analysis
 1. `data_processing.ipynb` and `data_analysis_nlp.ipynb` contain analysis of the dataset along with the preliminary sentiment score exploration. All the code used to generate the plots is contained in here as well.
